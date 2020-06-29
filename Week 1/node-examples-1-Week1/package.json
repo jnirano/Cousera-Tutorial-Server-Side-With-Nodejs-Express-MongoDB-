@@ -1,0 +1,19 @@
+{
+  "name": "module1-server-side-coursera-course",
+  "version": "1.0.0",
+  "description": "Node.js, Express.js, MongoDB and Mongoose (Server Side Development) Practice tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnirano/Module1-Server-Side-Coursera-Course.git"
+  },
+  "author": "Joel Ogunniran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnirano/Module1-Server-Side-Coursera-Course/issues"
+  },
+  "homepage": "https://github.com/jnirano/Module1-Server-Side-Coursera-Course#readme"
+}
