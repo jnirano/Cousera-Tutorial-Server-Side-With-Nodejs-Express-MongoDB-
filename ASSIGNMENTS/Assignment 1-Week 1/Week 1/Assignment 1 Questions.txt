@@ -1,0 +1,12 @@
+WEEK 1 Assignment QUESTIONS:
+
+QUES 1/TASK1: Complete the dish route by extending it to implement REST API support for the this endpoints;
+http://locahost:3000/dishes/:dishid  and it should support CRUD operation(Get, Put, Post & Delete operations). using dishRoute.js for your file.
+
+QUES 2/TASK 2:- Implement promoRouter.js that implements the router for:
+  route - http://:localhost:3000/promotions
+  Parameter route - http://:localhost:3000/promotions/:promoId  
+
+QUES 3/TASK 3:- Implement leaderRouter.js that implements the router for:
+   route - http://:localhost:3000/leaders
+   Parameter route - http://:localhost:3000/leaders/:leaderId
